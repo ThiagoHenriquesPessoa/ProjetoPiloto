@@ -28,10 +28,7 @@
         <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
             <Button Text="Cancelar"/>
             <Button Text="Salvar"/>
-        </StackLayout>
-        
-
-
+        </StackLayout>       
     </StackLayout>
 
 </ContentPage>
